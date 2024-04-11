@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{663BE0E5-F59C-48F9-B633-1383BC300517}|Prueba Tecnica\\Prueba Tecnica.csproj|c:\\users\\alan_\\source\\repos\\prueba tecnica\\prueba tecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663BE0E5-F59C-48F9-B633-1383BC300517}|Prueba Tecnica\\Prueba Tecnica.csproj|solutionrelative:prueba tecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663BE0E5-F59C-48F9-B633-1383BC300517}|Prueba Tecnica\\Prueba Tecnica.csproj|c:\\users\\alan_\\source\\repos\\prueba tecnica\\prueba tecnica\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663BE0E5-F59C-48F9-B633-1383BC300517}|Prueba Tecnica\\Prueba Tecnica.csproj|solutionrelative:prueba tecnica\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663BE0E5-F59C-48F9-B633-1383BC300517}|Prueba Tecnica\\Prueba Tecnica.csproj|c:\\users\\alan_\\source\\repos\\prueba tecnica\\prueba tecnica\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663BE0E5-F59C-48F9-B633-1383BC300517}|Prueba Tecnica\\Prueba Tecnica.csproj|solutionrelative:prueba tecnica\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663BE0E5-F59C-48F9-B633-1383BC300517}|Prueba Tecnica\\Prueba Tecnica.csproj|c:\\users\\alan_\\source\\repos\\prueba tecnica\\prueba tecnica\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663BE0E5-F59C-48F9-B633-1383BC300517}|Prueba Tecnica\\Prueba Tecnica.csproj|solutionrelative:prueba tecnica\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663BE0E5-F59C-48F9-B633-1383BC300517}|Prueba Tecnica\\Prueba Tecnica.csproj|c:\\users\\alan_\\source\\repos\\prueba tecnica\\prueba tecnica\\models\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663BE0E5-F59C-48F9-B633-1383BC300517}|Prueba Tecnica\\Prueba Tecnica.csproj|solutionrelative:prueba tecnica\\models\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\Migrations\\AuthDb\\20240411195851_MyMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Prueba Tecnica\\Migrations\\AuthDb\\20240411195851_MyMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663BE0E5-F59C-48F9-B633-1383BC300517}|Prueba Tecnica\\Prueba Tecnica.csproj|c:\\users\\alan_\\source\\repos\\prueba tecnica\\prueba tecnica\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663BE0E5-F59C-48F9-B633-1383BC300517}|Prueba Tecnica\\Prueba Tecnica.csproj|solutionrelative:prueba tecnica\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663BE0E5-F59C-48F9-B633-1383BC300517}|Prueba Tecnica\\Prueba Tecnica.csproj|c:\\users\\alan_\\source\\repos\\prueba tecnica\\prueba tecnica\\models\\empleadodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663BE0E5-F59C-48F9-B633-1383BC300517}|Prueba Tecnica\\Prueba Tecnica.csproj|solutionrelative:prueba tecnica\\models\\empleadodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663BE0E5-F59C-48F9-B633-1383BC300517}|Prueba Tecnica\\Prueba Tecnica.csproj|c:\\users\\alan_\\source\\repos\\prueba tecnica\\prueba tecnica\\validation\\empleadovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663BE0E5-F59C-48F9-B633-1383BC300517}|Prueba Tecnica\\Prueba Tecnica.csproj|solutionrelative:prueba tecnica\\validation\\empleadovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\Migrations\\20240411184403_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Prueba Tecnica\\Migrations\\20240411184403_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663BE0E5-F59C-48F9-B633-1383BC300517}|Prueba Tecnica\\Prueba Tecnica.csproj|c:\\users\\alan_\\source\\repos\\prueba tecnica\\prueba tecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{663BE0E5-F59C-48F9-B633-1383BC300517}|Prueba Tecnica\\Prueba Tecnica.csproj|solutionrelative:prueba tecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Prueba Tecnica\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Prueba Tecnica\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T20:05:55.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Prueba Tecnica\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\WeatherForecast.cs",
+              "RelativeToolTip": "Prueba Tecnica\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T20:05:52.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240411195851_MyMigration.cs",
+              "DocumentMoniker": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\Migrations\\AuthDb\\20240411195851_MyMigration.cs",
+              "RelativeDocumentMoniker": "Prueba Tecnica\\Migrations\\AuthDb\\20240411195851_MyMigration.cs",
+              "ToolTip": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\Migrations\\AuthDb\\20240411195851_MyMigration.cs",
+              "RelativeToolTip": "Prueba Tecnica\\Migrations\\AuthDb\\20240411195851_MyMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:58:51.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\Models\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "Prueba Tecnica\\Models\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\Models\\AuthDbContext.cs",
+              "RelativeToolTip": "Prueba Tecnica\\Models\\AuthDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:45:26.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmpleadoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\Validation\\EmpleadoValidator.cs",
+              "RelativeDocumentMoniker": "Prueba Tecnica\\Validation\\EmpleadoValidator.cs",
+              "ToolTip": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\Validation\\EmpleadoValidator.cs",
+              "RelativeToolTip": "Prueba Tecnica\\Validation\\EmpleadoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:04:08.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "Prueba Tecnica\\Controllers\\EmpleadosController.cs",
+              "ToolTip": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "Prueba Tecnica\\Controllers\\EmpleadosController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwB8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:46:02.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240411184403_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\Migrations\\20240411184403_Initial.cs",
+              "RelativeDocumentMoniker": "Prueba Tecnica\\Migrations\\20240411184403_Initial.cs",
+              "ToolTip": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\Migrations\\20240411184403_Initial.cs",
+              "RelativeToolTip": "Prueba Tecnica\\Migrations\\20240411184403_Initial.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:44:03.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\Program.cs",
+              "RelativeDocumentMoniker": "Prueba Tecnica\\Program.cs",
+              "ToolTip": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\Program.cs",
+              "RelativeToolTip": "Prueba Tecnica\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:25:16.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\appsettings.json",
+              "RelativeDocumentMoniker": "Prueba Tecnica\\appsettings.json",
+              "ToolTip": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\appsettings.json",
+              "RelativeToolTip": "Prueba Tecnica\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T18:22:51.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpleadoDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\Models\\EmpleadoDBContext.cs",
+              "RelativeDocumentMoniker": "Prueba Tecnica\\Models\\EmpleadoDBContext.cs",
+              "ToolTip": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\Models\\EmpleadoDBContext.cs",
+              "RelativeToolTip": "Prueba Tecnica\\Models\\EmpleadoDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:16:41.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "Prueba Tecnica\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\alan_\\source\\repos\\Prueba Tecnica\\Prueba Tecnica\\Models\\Empleado.cs",
+              "RelativeToolTip": "Prueba Tecnica\\Models\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:07:25.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
